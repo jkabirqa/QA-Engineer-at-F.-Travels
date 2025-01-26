@@ -32,6 +32,5 @@ Forgot Password (Link) – Ensure error handling is included.
 1. verify with valid email
 2. test with invalid email
 3. check with empty email
-4. verify with special character
-5. 
+4. verify with special character.
 
