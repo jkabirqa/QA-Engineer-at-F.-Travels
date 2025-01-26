@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-26T11:48:01 EST" name="theInternet" finished-at="2025-01-26T11:48:04 EST" duration-ms="2736">
+    <groups>
+    </groups>
+    <test started-at="2025-01-26T11:48:01 EST" name="DynamicContentTest" finished-at="2025-01-26T11:48:03 EST" duration-ms="1986">
+      <class name="dynamicContents.DynamicContentTest">
+        <test-method signature="testDynamicContent()[pri:0, instance:dynamicContents.DynamicContentTest@206a70ef]" started-at="2025-01-26T11:48:01 EST" name="testDynamicContent" finished-at="2025-01-26T11:48:03 EST" duration-ms="1958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDynamicContent -->
+      </class> <!-- dynamicContents.DynamicContentTest -->
+    </test> <!-- DynamicContentTest -->
+    <test started-at="2025-01-26T11:48:03 EST" name="ForgetPW" finished-at="2025-01-26T11:48:04 EST" duration-ms="724">
+      <class name="dynamicContents.ForgetPW">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:dynamicContents.ForgetPW@302552ec]" started-at="2025-01-26T11:48:00 EST" name="setUp" finished-at="2025-01-26T11:48:01 EST" duration-ms="1692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testwithEmptyemail()[pri:0, instance:dynamicContents.ForgetPW@302552ec]" started-at="2025-01-26T11:48:03 EST" name="testwithEmptyemail" finished-at="2025-01-26T11:48:04 EST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwithEmptyemail -->
+        <test-method signature="testwithinvalidemailformat()[pri:0, instance:dynamicContents.ForgetPW@302552ec]" started-at="2025-01-26T11:48:04 EST" name="testwithinvalidemailformat" finished-at="2025-01-26T11:48:04 EST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwithinvalidemailformat -->
+        <test-method signature="testwithvalidemailformat()[pri:0, instance:dynamicContents.ForgetPW@302552ec]" started-at="2025-01-26T11:48:04 EST" name="testwithvalidemailformat" finished-at="2025-01-26T11:48:04 EST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwithvalidemailformat -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dynamicContents.ForgetPW@302552ec]" started-at="2025-01-26T11:48:04 EST" name="tearDown" finished-at="2025-01-26T11:48:04 EST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dynamicContents.ForgetPW -->
+    </test> <!-- ForgetPW -->
+  </suite> <!-- theInternet -->
+</testng-results>
